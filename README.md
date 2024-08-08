@@ -1,8 +1,9 @@
 # Bike-Helmet-Detection-using-YOU-LOOK-ONLY-ONCE-YOLOv5-
-For developing this project you should mainly install certain softwares, libraries and frameworks.
+For developing this project you should mainly install certain softwares, libraries and frameworks. There by follow certain steps.
 
 # Python installation
 Python version range from 3.7 and above.
+Get it from your default store or => https://www.python.org/downloads/ and download ypur specific version.
 
 # Jupyter Notebook installation
 You can refer to this link and run the following commands in command prompt => https://jupyter.org/install.
