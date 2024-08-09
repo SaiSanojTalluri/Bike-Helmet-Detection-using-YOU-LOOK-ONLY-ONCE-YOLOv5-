@@ -22,5 +22,5 @@ You can refer to this link and run the following commands in command prompt => h
 # Py-torch installation
 You can refer to this link https://pytorch.org/.
 1. So please select the configuration of your requirements after that it generates the corresponding link.
-2. Then run that link in your terminal.
+2. Then run that link in your terminal and it further install py-torch in your pc.
 
