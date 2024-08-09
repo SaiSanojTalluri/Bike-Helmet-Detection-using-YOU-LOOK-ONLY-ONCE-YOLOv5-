@@ -3,7 +3,7 @@ For developing this project you should mainly install certain softwares, librari
 
 # Python installation
 Python version range from 3.7 and above.
-Get it from your default store or => https://www.python.org/downloads/ and download ypur specific version.
+Get it from your default pc store or download through this link => https://www.python.org/downloads/ and download your specific version.
 
 # Jupyter Notebook installation
 You can refer to this link and run the following commands in command prompt => https://jupyter.org/install.
@@ -24,4 +24,3 @@ You can refer to this link https://pytorch.org/.
 1. So please select the configuration of your requirements after that it generates the corresponding link.
 2. Then run that link in your terminal.
 
-# 
