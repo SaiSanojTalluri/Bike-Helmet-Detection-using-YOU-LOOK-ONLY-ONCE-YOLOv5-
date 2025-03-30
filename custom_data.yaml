@@ -1,0 +1,14 @@
+path: C:/Users/saisa/yolov5/train_data
+train: C:/Users/saisa/yolov5/train_data/images/train/
+val: C:/Users/saisa/yolov5/train_data/images/val/
+test:  # test images (optional)
+
+nc: 2
+names: ['With Helmet', 'Without Helmet']
+
+roboflow:
+  workspace: bike-helmets
+  project: bike-helmet-detection-2vdjo
+  version: 2
+  license: Public Domain
+  url: https://universe.roboflow.com/bike-helmets/bike-helmet-detection-2vdjo/dataset/2
